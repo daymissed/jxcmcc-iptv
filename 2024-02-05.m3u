@@ -91,7 +91,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225699/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 ,冬奥纪实
+#EXTINF:-1 group-title="卫视台" tvg-id="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png",冬奥纪实视,冬奥纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225673/index.m3u8
@@ -127,7 +127,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225724/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 ,大湾区卫视
+#EXTINF:-1 group-title="卫视台" tvg-id="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png",厦门卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226199/index.m3u8
