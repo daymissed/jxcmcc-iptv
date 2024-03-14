@@ -21,7 +21,7 @@ http://117.169.124.40:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv8/1.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-1 戏曲
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12 社会与法
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225629/index.m3u8
@@ -32,7 +32,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奥林匹克
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226232/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业农村
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 ,凤凰中文
