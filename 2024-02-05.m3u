@@ -47,7 +47,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 ,江西都市
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi1.png" group-title="地方频道",江西都市
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,江西影视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
