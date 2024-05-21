@@ -7,6 +7,8 @@
 # Tivimate播放链接:https://mirror.ghproxy.com/https://raw.githubusercontent.com/daymissed/jxcmcc-iptv/main/2024-02-05.m3u
 
 ## 更新日志
+#  2024-05-21
+更新央视 CHC动作电影、CHC家庭影院、CHC影迷电影三个频道IPV6地址，只有网络为IPV6地址才可以播放。
 #  2024-02-08
 IPV4直播源适应移动宽带网络,其它运营商可能会卡顿! 本次只更新凤凰台地址,CHC频道IPV4源地址全部失效,暂未找到新源!
 
