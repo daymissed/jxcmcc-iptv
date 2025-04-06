@@ -4,7 +4,7 @@
 
 ![image](https://github.com/daymissed/jxcmcc-iptv/assets/62062283/7c25dba2-1c82-4cc1-9af1-b30d07c949b7)
 
-# 网络直播地址:https://mirror.ghproxy.com/https://raw.githubusercontent.com/daymissed/jxcmcc-iptv/main/2024-02-05.m3u
+# 网络直播地址:https://mirror.ghfast.top/https://raw.githubusercontent.com/daymissed/jxcmcc-iptv/main/2024-02-05.m3u
 
 ## 更新日志
 #  2024-05-21
