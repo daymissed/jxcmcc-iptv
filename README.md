@@ -4,7 +4,7 @@
 
 ![image](https://github.com/daymissed/jxcmcc-iptv/assets/62062283/7c25dba2-1c82-4cc1-9af1-b30d07c949b7)
 
-# 网络直播地址:https://ghfast.top/https://raw.githubusrcontent.com/daymissed/tv/main/tv.m3u
+# 江西YD网络直播地址:https://ghfast.top/https://raw.githubusrcontent.com/daymissed/tv/main/tv.m3u
 
 ## 更新日志
 #  2024-05-21
